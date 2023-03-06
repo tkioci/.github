@@ -54,6 +54,7 @@ https://docs.github.com/en/actions/learn-github-actions/contexts#github-context
 
 > **Any trademarks and/or copyrights remain the property of their respective holders**, unless specifically noted otherwise.
 > Use of a term in this document should not be regarded as affecting the validity of any trademark or service mark. Naming of particular products or brands should not be seen as endorsements.
+> Apple and Mac are registered trademarks of Apple Inc., registered in the U.S. and other countries and regions.
 > MikroTik is a trademarks of Mikrotikls SIA.
 > Python is a registered trademark of the PSF. 
 > UNIX is a registered trademark of The Open Group.
