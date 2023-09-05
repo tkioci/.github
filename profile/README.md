@@ -8,6 +8,7 @@ The following is the current state of the various RouterOS container:
 
 ### Released
 * serial2http
+* cligames
 
 ### Beta — _no docs, should work_
 * netserver
