@@ -4,28 +4,6 @@
 See various repos for details.  Docs are under development, including here.
 Most containers should work, but may have may require explaination – or just have bugs – use with caution.
 
-The following is the current state of the various RouterOS container:
-
-### Released
-* serial2http
-* cligames
-
-### Beta — _no docs, should work_
-* netserver
-* netperf
-
-### Alpha — _no docs, may work, but under development_
-* flent
-
-### Pending Alpha — _have image, pending push here_
-* netinstall
-* BIND9
-* Unbound
-* "MGNIX" (ngnix proxy for CORS)
-
-### Forks — _experiments only, do not use these from here_
-* pihole
-* atlas
 
 ## Tips
 
