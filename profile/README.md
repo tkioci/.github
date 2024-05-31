@@ -11,5 +11,5 @@ Notable projects:
 
 > [!NOTE]
 >
-> **Use at your own risk.**  No guarantees or warranties.  See [* Disclaimers](profile/notices.md)  
+> **Use at your own risk.**  No guarantees or warranties.  See [* Disclaimers](notices.md)  
 
