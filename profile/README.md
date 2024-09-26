@@ -11,8 +11,7 @@ Notable projects:
 ###
 
 
-> [!NOTE]
->##### * Disclaimers
+> [!NOTE] Disclaimers
 >
 > **Use at your own risk.**  No guarantees or warranties. 
 >
