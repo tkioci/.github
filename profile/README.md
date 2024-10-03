@@ -1,4 +1,4 @@
-# `TIKOCI` — RouterOS Project Depot
+# `TIKOCI` — RouterOS Code Depot
 
 Various Mikrotik RouterOS projects, generally focused on `/container` and scripting.  See each repos for details.
 
