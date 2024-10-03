@@ -16,9 +16,9 @@ const ipaPronunciations = [
   ];
 ``` -->
 
-Contains various Open Source Mikrotik RouterOS projects, generally focused on `/container` and scripting.  This page serves as an commented index to the more developed projects within `tikoci`.  
+Contains various Open Source Mikrotik RouterOS projects, generally focused on `/container` and scripting.  This page serves as an commented index to the more developed projects within TIKOCI.  
 
-> See [Repositories](https://github.com/orgs/tikoci/repositories) for full list of all `tikoci`'s code and projects.
+> See [Repositories](https://github.com/orgs/tikoci/repositories) for full list of all TIKOCI's code and projects.
 
 ### Web Tools
 
